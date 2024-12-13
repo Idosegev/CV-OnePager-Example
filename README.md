@@ -15,7 +15,7 @@ To deploy this project run in the cloned directory
 
 ## Authors
 
-- [@idos](https://www.github.com/octokatherine)
+- [@idos](https://www.github.com/Idosegev)
 
 
 ## Contributing
